@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "salleDetailView";
+}
+
+<h1>Listes des salles</h1>
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            Liste des salles
+        </div>
+        <div class="card-body">
+            <table id="salleTableId" class="table-striped table-bordered" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>Designation</th>
+                        <th>Type</th>
+                        <th>Capacité</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var salle in @Model.Salle)
+                    {
+                        <tr>
+                            <td>@salle.NomSalle</td>
+                            <td>@salle.TypeSalle</td>
+                            <td>@salle.CapaciterSalle</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        </div>

@@ -1,0 +1,12 @@
+F:\Projects\WEBApplication1\LOGIC\bin\Debug\netstandard2.0\Model.dll
+F:\Projects\WEBApplication1\LOGIC\obj\Debug\netstandard2.0\LOGIC.csprojAssemblyReference.cache
+F:\Projects\WEBApplication1\LOGIC\obj\Debug\netstandard2.0\LOGIC.AssemblyInfoInputs.cache
+F:\Projects\WEBApplication1\LOGIC\obj\Debug\netstandard2.0\LOGIC.AssemblyInfo.cs
+F:\Projects\WEBApplication1\LOGIC\obj\Debug\netstandard2.0\LOGIC.csproj.CoreCompileInputs.cache
+F:\Projects\WEBApplication1\LOGIC\bin\Debug\netstandard2.0\LOGIC.deps.json
+F:\Projects\WEBApplication1\LOGIC\bin\Debug\netstandard2.0\LOGIC.dll
+F:\Projects\WEBApplication1\LOGIC\bin\Debug\netstandard2.0\LOGIC.pdb
+F:\Projects\WEBApplication1\LOGIC\bin\Debug\netstandard2.0\Model.pdb
+F:\Projects\WEBApplication1\LOGIC\obj\Debug\netstandard2.0\LOGIC.csproj.CopyComplete
+F:\Projects\WEBApplication1\LOGIC\obj\Debug\netstandard2.0\LOGIC.dll
+F:\Projects\WEBApplication1\LOGIC\obj\Debug\netstandard2.0\LOGIC.pdb
